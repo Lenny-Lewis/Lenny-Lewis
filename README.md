@@ -41,9 +41,9 @@ interests  = ["Machine Learning", "Cybersecurity", "Full-Stack Dev", "Networking
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lennox-odhiambo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennox-odhiambo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lennox-odhiambo&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Lenny-lewis&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lennox-odhiambo&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lenny-Lewis&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -53,10 +53,10 @@ interests  = ["Machine Learning", "Cybersecurity", "Full-Stack Dev", "Networking
 
 | Project | Description | Stack |
 |---|---|---|
-| **[ResiliAI](https://github.com/lennox-odhiambo/ResiliAI)** | Disaster prediction using CNNs, XGBoost & SHAP explainability | Python, TF, SHAP |
-| **[SmartTrack](https://github.com/lennox-odhiambo/SmartTrack)** | Student academic risk prediction with ANN & Bayesian tuning | Python, React, SQL |
-| **[BookWise](https://github.com/lennox-odhiambo/BookWise)** | AI-powered book discovery & recommendation platform | Next.js, Node.js |
-| **[Ryde](https://github.com/lennox-odhiambo/Ryde)** | Ride-sharing app with Stripe/PayPal payment integration | Next.js, Stripe |
+| **[ResiliAI](https://github.com/Lenny-Lewis/ResiliAI)** | Disaster prediction using CNNs, XGBoost & SHAP explainability | Python, TF, SHAP |
+| **[SmartTrack](https://github.com/Lenny-Lewis/SmartTrack)** | Student academic risk prediction with ANN & Bayesian tuning | Python, React, SQL |
+| **[BookWise](https://github.com/Lenny-Lewis/BookWise)** | AI-powered book discovery & recommendation platform | Next.js, Node.js |
+| **[Ryde](https://github.com/Lenny-Lewis/Ryde)** | Ride-sharing app with Stripe/PayPal payment integration | Next.js, Stripe |
 
 ---
 
