@@ -15,7 +15,6 @@
 ```python
 class LennoxOdhiambo:
     name       = "Lennox Lewis Odhiambo"
-    university = "Kisii University, Kenya 🇰🇪"
     degree     = "BSc. Information Technology (Year 3)"
     cert       = "IBM SkillsBuild — Cybersecurity Fundamentals"
     interests  = ["Machine Learning", "Cybersecurity", "Full-Stack Dev", "Networking"]
@@ -76,13 +75,13 @@ class LennoxOdhiambo:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lennox-odhiambo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=Lenny-lewis&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lennox-odhiambo&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lenny-Lewis&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
