@@ -18,8 +18,6 @@ class LennoxOdhiambo:
     degree     = "BSc. Information Technology (Year 3)"
     cert       = "IBM SkillsBuild — Cybersecurity Fundamentals"
     interests  = ["Machine Learning", "Cybersecurity", "Full-Stack Dev", "Networking"]
-    currently  = "Building AI-powered academic tools & seeking IT attachment"
-    email      = "lennoxodhiambo@gmail.com"
 ```
 
 ---
