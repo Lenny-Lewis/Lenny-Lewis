@@ -35,10 +35,10 @@
 
 | Project | What it does |
 |---|---|
-| **[ResiliAI](https://github.com/lennox-odhiambo/ResiliAI)** | Disaster risk prediction — CNNs, XGBoost, SHAP explainability |
-| **[SmartTrack](https://github.com/lennox-odhiambo/SmartTrack)** | Student academic risk detection — ANN, Random Forest, PCA |
-| **[BookWise](https://github.com/lennox-odhiambo/BookWise)** | AI book recommendation platform — Next.js, Node.js |
-| **[Ryde](https://github.com/lennox-odhiambo/Ryde)** | Ride-hailing web app — Stripe & PayPal integration |
+| **[ResiliAI](https://github.com/Lenny-Lewis/ResiliAI)** | Disaster risk prediction — CNNs, XGBoost, SHAP explainability |
+| **[SmartTrack](https://github.com/Lenny-Lewis/SmartTrack)** | Student academic risk detection — ANN, Random Forest, PCA |
+| **[BookWise](https://github.com/Lenny-Lewis/BookWise)** | AI book recommendation platform — Next.js, Node.js |
+| **[Ryde](https://github.com/Lenny-Lewis/Ryde)** | Ride-hailing web app — Stripe & PayPal integration |
 
 ---
 
@@ -46,8 +46,8 @@
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lenny-lewis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenny-lewis&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lenny-Lewis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenny-Lewis&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
 
 ![Streak](https://streak-stats.demolab.com?user=lennox-odhiambo&theme=midnight-purple&hide_border=true)
 
