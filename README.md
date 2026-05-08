@@ -10,9 +10,7 @@
 
 ---
 
-**BSc. Information Technology** · Kisii University, Kenya · Year 3
 **IBM SkillsBuild** — Cybersecurity Fundamentals
-📍 Kisumu, Kenya &nbsp;|&nbsp; 🔍 Open to **IT Attachment / Internship** and **Freelance** work
 
 ---
 
@@ -48,8 +46,8 @@
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lennox-odhiambo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennox-odhiambo&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lenny-lewis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenny-lewis&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
 
 ![Streak](https://streak-stats.demolab.com?user=lennox-odhiambo&theme=midnight-purple&hide_border=true)
 
