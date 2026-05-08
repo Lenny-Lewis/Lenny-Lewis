@@ -29,18 +29,7 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFD700)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FFD700)
 
----
 
-## Projects
-
-| Project | What it does |
-|---|---|
-| **[ResiliAI](https://github.com/lennox-odhiambo/ResiliAI)** | Disaster risk prediction — CNNs, XGBoost, SHAP explainability |
-| **[SmartTrack](https://github.com/lennox-odhiambo/SmartTrack)** | Student academic risk detection — ANN, Random Forest, PCA |
-| **[BookWise](https://github.com/lennox-odhiambo/BookWise)** | AI book recommendation platform — Next.js, Node.js |
-| **[Ryde](https://github.com/lennox-odhiambo/Ryde)** | Ride-hailing web app — Stripe & PayPal integration |
-
----
 
 <div align="center">
 
