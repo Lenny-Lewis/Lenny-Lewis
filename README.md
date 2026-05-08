@@ -10,7 +10,7 @@
 
 ---
 
-📍 Kisumu, Kenya &nbsp;|&nbsp; 🔍 Open to **Internship** and **Freelance** work
+📍 Kisumu, Kenya &nbsp;|&nbsp; 🔍 Open to **Freelance** work
 
 ---
 
