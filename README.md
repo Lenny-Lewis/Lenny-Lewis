@@ -19,18 +19,6 @@ I build scalable web applications, explore machine learning systems, and focus o
 - JavaScript, React, Node.js, Express
 - Databases: PostgreSQL, MongoDB
 
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lenny-Lewis&show_icons=true&count_private=true&cache_seconds=86400)
-
----
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenny-Lewis&layout=compact)
-
----
-
 ## Interests
 - AI/ML systems & automation
 - Secure full-stack systems
