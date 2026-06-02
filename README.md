@@ -18,13 +18,6 @@ I build scalable web applications, explore machine learning systems, and care ab
 - **ML/AI:** Python, Scikit-learn, TensorFlow (basic–intermediate)
 - **Security:** Network security basics, secure coding principles
 
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lenny-Lewis&show_icons=true&theme=default)
-
----
-
 ## Interests
 - AI/ML systems and automation
 - Secure full-stack application design
