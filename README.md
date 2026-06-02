@@ -21,7 +21,7 @@ I build scalable web applications, explore machine learning systems, and care ab
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lenny-Lewis&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lenny-Lewis&show_icons=true&theme=default)
 
 ---
 
