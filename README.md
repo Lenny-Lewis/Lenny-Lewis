@@ -3,27 +3,40 @@
 ## About Me
 Full Stack Developer | Machine Learning Engineer | Cybersecurity Certified
 
-I build scalable web applications, explore machine learning systems, and care about secure software design.
+I build scalable web applications, explore machine learning systems, and focus on secure software design.
+
+---
+
+## Portfolio
+🌐 https://load-lewis.vercel.app/
 
 ---
 
 ## Tech Stack
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-blue)
-![Machine Learning](https://img.shields.io/badge/ML-Engineer-orange)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Certified-red)
+- Full Stack Development
+- Machine Learning (Python, Scikit-learn, TensorFlow basics)
+- Cybersecurity fundamentals
+- JavaScript, React, Node.js, Express
+- Databases: PostgreSQL, MongoDB
 
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Python, Express
-- **Databases:** PostgreSQL, MongoDB
-- **ML/AI:** Python, Scikit-learn, TensorFlow (basic–intermediate)
-- **Security:** Network security basics, secure coding principles
+---
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lenny-Lewis&show_icons=true&count_private=true&cache_seconds=86400)
+
+---
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenny-Lewis&layout=compact)
+
+---
 
 ## Interests
-- AI/ML systems and automation
-- Secure full-stack application design
-- Building real-world scalable products
+- AI/ML systems & automation
+- Secure full-stack systems
+- Building production-ready applications
 
 ---
 
 ## Contact
-Open to collaborations, internships, and freelance work.
+Open to collaboration, freelance work, and internships.
