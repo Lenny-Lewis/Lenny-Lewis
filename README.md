@@ -13,11 +13,15 @@ I build scalable web applications, explore machine learning systems, and focus o
 ---
 
 ## Tech Stack
-- Full Stack Development
-- Machine Learning (Python, Scikit-learn, TensorFlow basics)
-- Cybersecurity fundamentals
-- JavaScript, React, Node.js, Express
-- Databases: PostgreSQL, MongoDB
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-blue)
+![Machine Learning](https://img.shields.io/badge/ML-Engineer-orange)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Certified-red)
+
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Python, Express
+- **Databases:** PostgreSQL, MongoDB
+- **ML/AI:** Python, Scikit-learn, TensorFlow (basic–intermediate)
+- **Security:** Network security basics, secure coding principles
 
 ## Interests
 - AI/ML systems & automation
